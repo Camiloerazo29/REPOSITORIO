@@ -1,2 +1,1 @@
-alert("Quiero mostrar este html");
-console.log("Quiero mostrar esto en consola")
+console.log("mi primer cambio para el repo")
